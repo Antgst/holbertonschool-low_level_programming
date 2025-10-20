@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
-*TEST
-*DOC
-**/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
