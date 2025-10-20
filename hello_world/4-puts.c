@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/** TEST DOC **/
+/**
+*TEST
+*DOC
+**/
 
 int main(void)
 {
