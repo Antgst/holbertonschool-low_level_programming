@@ -17,7 +17,8 @@ int main(void)
 	
 	/* your code goes there */
 
-int ("ld = n%10");
+	int ld = n % 10;
+ 
  printf("Last digit of %d is %ld/n"), n, ld;
 	
 	if (ld > 5)
