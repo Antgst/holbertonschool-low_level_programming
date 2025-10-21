@@ -12,7 +12,7 @@ int main(void)
 
   for (i = 30; i < 39; i++)
     {
-      putchar(i);
+      putchar(i)
     }
   putchar('\n');
   return (0);
