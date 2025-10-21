@@ -20,7 +20,7 @@ int main(void)
 
 	ld = n % 10;
  
- printf("Last digit of %d is %ld/n"), n, ld;
+	printf("Last digit of %d is %ld/n", n, ld);
 	
 	if (ld > 5)
 	  {
