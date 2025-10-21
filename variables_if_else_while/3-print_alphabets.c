@@ -26,6 +26,6 @@ int main(void)
     m++;
     }
 
-  putchar ("\ln");
+  putchar ("\n");
   return (0);
 }
