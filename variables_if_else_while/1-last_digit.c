@@ -17,21 +17,22 @@ int main(void)
 	
 	/* your code goes there */
 
-	int ("ld = n%10");
+int ("ld = n%10");
+ printf("Last digit of %d is %ld/n"), n, ld;
 	
-	if (n > 5)
+	if (ld > 5)
 	  {
-	    printf("Last digit of %d is %d and is greater than 5/n"), n, ld;
+	    printf("Last digit of %d is %d and is greater than 5/n");
 	      }
 	
-	else if (n == 0)
+	else if (ld == 0)
 	  {
-	    printf("Last digit of", "n", "is", "%d and is 0/n"), n, ld;
+	    printf("Last digit of", "n", "is", "%d and is 0/n");
 	      }
 
 	else
 	  {
-	    printf("Last digit of", "n", "is", "%d and is less than 6 and not 0/n"), n, ld;
+	    printf("Last digit of", "n", "is", "%d and is less than 6 and not 0/n");
 	      }
 
 	return (0);
