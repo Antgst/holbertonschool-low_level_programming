@@ -12,8 +12,9 @@ int main(void)
   char alphabet;
   {
     
-  putchar("a<=z");
-  
+    for (alphabet = 'a'; alphabet <= "z"; alphabet++)
+      putchar(alphabet);
+    
   putchar("\n");
   }
   
