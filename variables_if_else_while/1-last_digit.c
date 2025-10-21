@@ -20,7 +20,7 @@ int main(void)
 
 	last_digit = n % 10;
  
-	printf("Last digit of %d is %ld/n", n, last_digit);
+	printf("Last digit of %d is %d/n", n, last_digit);
 	
 	if (last_digit > 5)
 	  {
@@ -29,12 +29,12 @@ int main(void)
 	
 	else if (last_digit == 0)
 	  {
-	    printf("Last digit of", "n", "is", "%d and is 0/n");
+	    printf("Last digit of %d is %d and is 0/n");
 	      }
 
 	else
 	  {
-	    printf("Last digit of", "n", "is", "%d and is less than 6 and not 0/n");
+	    printf("Last digit of %d is %d and is less than 6 and not 0/n");
 	      }
 
 	return (0);
