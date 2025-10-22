@@ -6,17 +6,11 @@
  * Return: Always 0 (Success)
  */
 
-int _abs(int i)
-
+int _abs(int n)
 {
-  if (i < '0')
-  {
-    return (-i);
-  }
-
-  if (i > '0')
-  {
-    return (i);
-  }
-
+	if (n < 0)
+	{
+		return (-n);
+	}
+	return (n);
 }
