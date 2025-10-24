@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet - salut
+ * print_alphabet_x10 - salut
  *
  * Return: Always 0 (Success)
  */
