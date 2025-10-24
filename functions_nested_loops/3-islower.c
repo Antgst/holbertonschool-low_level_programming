@@ -2,7 +2,7 @@
 
 /**
  * is_lower - Short description, single line
- * @parameterx: Description of parameter x
+ * @c: Description of parameter c
  *
  * Description: Longer description of the function)?
  * section header: Section description)*
