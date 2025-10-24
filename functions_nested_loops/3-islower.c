@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower lowercase
+ *_islower
  *
  * Return: Always 0.
  */
