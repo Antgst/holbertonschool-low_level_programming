@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * _islower
+ * is_lower - Short description, single line
+ * @parameterx: Description of parameter x
  *
- * Return: Always 0.
+ * Description: Longer description of the function)?
+ * section header: Section description)*
+ * Return: Description of the returned value
  */
 
 int _islower(int c)
