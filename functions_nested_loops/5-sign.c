@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * sign - verifie le signe
  *
  * Return: Always 0 (Success)
  */
