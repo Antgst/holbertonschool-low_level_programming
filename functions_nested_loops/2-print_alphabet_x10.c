@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_alphabet - salut
  *
  * Return: Always 0 (Success)
  */
