@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * AFFICHE SUR N EST POSITIF, NEGATIF OU EGALE A 0
  * Return: Always 0 (Success)
  */
 
