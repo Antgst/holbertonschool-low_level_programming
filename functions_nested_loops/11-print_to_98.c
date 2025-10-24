@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * print_to_98 - Imprime tous les entiers de n jusqu'à 98.
+ * n: entier de départ.
  *
- * Return: Always 0 (Success)
+ * Return: Rien.
  */
 
 void print_to_98(int n)
