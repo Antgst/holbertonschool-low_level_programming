@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * isalpha, verifie sur lettre
  *
  * Return: Always 0.
  */
