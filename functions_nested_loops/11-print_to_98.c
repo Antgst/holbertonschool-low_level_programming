@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - Imprime tous les entiers de n jusqu'à 98.
- * n: entier de départ.
+ * n entier de départ.
  *
  * Return: Rien.
  */
