@@ -20,32 +20,35 @@ void print_to_98(int n)
 
 	  printf("%d", n);
 
+	}
+
 	  if (n != 98)
 
 	  putchar(',');
 	  putchar(' ');
-
-	  else
-
-	    {
-
-	      for (; n >= 98; n--)
-
-		{
-
-		  printf("%d", n);
-
-		  if (n != 98)
-
-		  putchar(',');
-		  putchar(' ');
-
-		}
-
-	    }
-
-	}
-
+	  putchar('\n');
+	  
     }
 
+  else
+
+     {
+
+       for (; n >= 98; n--)
+
+	 {
+
+	   printf("%d", n);
+
+	 }
+
+	   if (n != 98)
+
+	   putchar(',');
+	   putchar(' ');
+	   putchar('\n');
+
+     }
+
 }
+
