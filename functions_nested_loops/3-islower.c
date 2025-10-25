@@ -2,7 +2,7 @@
 
 /**
 * _islower - Indique si les lettres sont en minuscule
-* c est l'alphabet
+* int c: est l'alphabet
 * Return: met l'alphabet en minuscule
 */
 
