@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * File: 8-24_hours.c
+ * Author: <ton_nom>
+ * Desc: Implémentation de jack_bauer.
+ * jack_bauer - Affiche toutes les minutes de 00:00 à 23:59.
  *
- * Return: Always 0 (Success)
+ * Return: rien.
  */
 
 void jack_bauer(void)
