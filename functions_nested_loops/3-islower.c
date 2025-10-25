@@ -1,14 +1,10 @@
 #include "main.h"
 
 /**
- * is_lower - Short description, single line
- * @c: Description of parameter c
+ * main - Entry point
  *
- * Description: Longer description of the function)?
- * section header: Section description)*
- * Return: Description of the returned value
+ * Return: Always 0 
  */
-
 int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
