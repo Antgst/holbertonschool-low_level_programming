@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * File: _islower.c
- * Author: Antoine
- * Desc: <Résumé très court du fichier (1 phrase).>
+ * _islower - Vérifie si un caractère est une lettre minuscule ASCII.
+ * @c: code du caractère à tester
+ *
+ * Return: 1 si @c est entre 'a' et 'z', sinon 0.
  */
 
 int _islower(int c)
