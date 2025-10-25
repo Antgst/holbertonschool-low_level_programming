@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0
- */
+* _islower - Indique si les lettres sont en minuscule
+* Return: Always 0
+*/
 
 int _islower(int c)
 {
