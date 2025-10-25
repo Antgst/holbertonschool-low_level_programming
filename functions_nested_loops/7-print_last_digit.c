@@ -7,7 +7,6 @@
  * Return: valeur absolue de @n.
  */
 
-
 int print_last_digit(int n)
 {
 	int ld = n % 10;
