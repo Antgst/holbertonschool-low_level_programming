@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * print_sign - verifie le signe
+ * print_sign - Affiche le signe d'un entier et retourne un indicateur.
+ * @n: entier à évaluer
  *
- * Return: Always 0 (Success)
+ * Return: 1 si n > 0 (imprime '+'),
+ *         0 si n == 0 (imprime '0'),
+ *         -1 si n < 0 (imprime '-').
  */
 
 int print_sign(int n)
