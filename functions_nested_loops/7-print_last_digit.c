@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _abs - Calcule la valeur absolue d’un entier.
- * @n: entier à convertir en valeur absolue
+ * print_last_digit - Affiche le dernier chiffre d’un entier puis le renvoie.
+ * @n: entier à traiter
  *
- * Return: valeur absolue de @n.
+ * Return: valeur absolue du dernier chiffre (0–9).
  */
 
 int print_last_digit(int n)
