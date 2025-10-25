@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* _islower - Indique si les lettres sont en minuscule
-* int c: est l'alphabet
-* Return: met l'alphabet en minuscule
-*/
+ * File: _islower.c
+ * Author: Antoine
+ * Desc: <Résumé très court du fichier (1 phrase).>
+ */
 
 int _islower(int c)
 {
