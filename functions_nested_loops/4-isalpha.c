@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * isalpha, verifie sur lettre
+ * _isalpha - Vérifie si un code correspond à une lettre ASCII.
+ * @c: code du caractère à tester
  *
- * Return: Always 0.
+ * Return: 1 si @c est une lettre (a–z ou A–Z), sinon 0.
  */
 
 int _isalpha(int c)
