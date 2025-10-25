@@ -3,7 +3,7 @@
 /**
 * _islower - Indique si les lettres sont en minuscule
 *
-* Return: Always 0
+* Return: met l'alphabet en minuscule
 */
 
 int _islower(int c)
