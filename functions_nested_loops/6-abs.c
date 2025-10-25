@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * _abs - Calcule la valeur absolue d’un entier.
+ * @n: entier d’entrée
  *
- * Return: Always 0 (Success)
+ * Return: valeur absolue de @n.
  */
 
 int _abs(int n)
