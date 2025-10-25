@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * print_to_98 - Imprime tous les entiers de n jusqu'à 98.
- * n entier de départ.
+ * print_to_98 - Imprime tous les entiers de @n à 98 inclus.
+ * @n: point de départ
  *
- * Return: Rien.
+ * Return: rien.
  */
 
 void print_to_98(int n)
