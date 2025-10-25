@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * times_table - Affiche la table de multiplication de 0 à 9.
  *
- * Return: Always 0 (Success)
+ * Return: rien.
  */
 
 void times_table(void)
