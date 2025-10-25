@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * add - Additionne deux entiers.
+ * @a: premier opérande
+ * @b: second opérande
  *
- * Return: Always 0 (Success)
+ * Return: somme de @a et @b.
  */
 
 int add(int a, int b)
