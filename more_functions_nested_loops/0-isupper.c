@@ -3,7 +3,7 @@
 
 /**
  * _isupper - verifie si minuscule
- *
+ * c - caractere
  * Return: Always 0.
  */
 
