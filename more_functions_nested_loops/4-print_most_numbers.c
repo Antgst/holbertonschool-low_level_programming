@@ -10,6 +10,7 @@
 void print_most_numbers(void)
 {
 	char n;
+
 	n = 48;
 	while (n <= 57)
 	{
@@ -17,6 +18,5 @@ void print_most_numbers(void)
 			_putchar (n);
 		n++;
 		_putchar('\n');
-		return (0);
 	}
 }
