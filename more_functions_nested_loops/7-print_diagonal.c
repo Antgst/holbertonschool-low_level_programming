@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
+ * print_diagonal - imprime des diagonales
+ * i et j sont des nombres entiers
  * Return: Always 0.
  */
 
