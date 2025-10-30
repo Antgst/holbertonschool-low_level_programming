@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * puts_half - prints the second half of a string, then a newline
- * @str: input string
- *
- * If length is odd, prints the last n chars where n = (len + 1) / 2.
+ * _strlen - check the len of an str.
+ * @s: char *
+ * Return: the len.
  */
 
 void puts_half(char *str)
