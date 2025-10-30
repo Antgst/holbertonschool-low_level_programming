@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * puts2 - updates the value it points.
+ * @str: string
+ * Return: 0.
  */
 
 void puts2(char *str)
