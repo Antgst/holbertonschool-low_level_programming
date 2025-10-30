@@ -2,10 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+ * _strcpy - make a copy
+ * @dest: destination
+ * @src: source
+ * Return: the copy
+**/
 
 char *_strcpy(char *dest, char *src)
 {
