@@ -1,11 +1,10 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * swap_int - changer les valeurs
- * @a entier
- * @b entier
- * Return: Always 0.
+ * swap_int - swap the value of a and b.
+ * @a: pointer a
+ * @b: pointer b
+ * Return: a and b values.
  */
 
 void swap_int(int *a, int *b)
