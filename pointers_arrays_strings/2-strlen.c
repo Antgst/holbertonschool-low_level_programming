@@ -1,11 +1,11 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+ * _strchr - Display the c's characteres, betwin c in a string
+ * @s: pointer to the start of of a string
+ * @c: charactere
+ * Return: NULL
+**/
 
 int _strlen(char *s)
 {
