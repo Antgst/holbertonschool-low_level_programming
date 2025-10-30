@@ -1,11 +1,11 @@
-#include <stdio.h>
 #include "main.h"
-
+#include <stdio.h>
 /**
- * main - check the code for
- *
- * Return: Always 0.
- */
+ * print_array - print un array
+ * @a: array
+ * @n: length
+ * Return: an array
+**/
 
 void print_array(int *a, int n)
 {
