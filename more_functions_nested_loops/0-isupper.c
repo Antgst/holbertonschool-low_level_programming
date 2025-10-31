@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * _isupper - verifie si minuscule
- * c - caractere
- * Return: Always 0.
+ * _isupper - check if is upper.
+ * @c : index
+ * Return: 1 or 0.
  */
 
 int _isupper(int c)
