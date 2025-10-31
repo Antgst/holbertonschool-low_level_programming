@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * _strlen - check the len of an str.
- * @s: char *
- * Return: the len.
+ * puts_half - prints the second half of a string, then a newline
+ * @str: pointer to the input string
+ *
+ * Description: If the length is odd, prints from index (len + 1) / 2
+ *              to skip the middle character.
+ * Return: void
  */
 
 void puts_half(char *str)
