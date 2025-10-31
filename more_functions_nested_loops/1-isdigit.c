@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * _isdigit - verifie si nombre
- * @c - nombre
- * Return: Always 0.
+ * _isdigit - check if is a digit.
+ * @c : index
+ * Return: 1 or 0.
  */
 
 int _isdigit(int c)
