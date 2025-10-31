@@ -2,10 +2,12 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+ * _strncpy - make a copy
+ * @dest: destination
+ * @src: source
+ * @n: length max
+ * Return: the copy
+**/
 
 char *_strncpy(char *dest, char *src, int n)
 {
@@ -15,5 +17,5 @@ char *_strncpy(char *dest, char *src, int n)
 		dest[i] = src[i];
 	for (; i < n; i++)
 		dest[i] = '\0';
-	return dest;
+	return (dest);
 }
