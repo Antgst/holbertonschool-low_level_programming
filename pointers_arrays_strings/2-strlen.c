@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * _strchr - Display the c's characteres, betwin c in a string
- * @s: pointer to the start of of a string
- * @c: charactere
- * Return: NULL
-**/
+ * _strlen - check the len of an str.
+ * @s: char *
+ * Return: the len.
+ */
 
 int _strlen(char *s)
 {
