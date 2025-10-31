@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print_diagonal - imprime des diagonales
- * i et j sont des nombres entiers
- * Return: Always 0.
+ * print_diagonal - print a diagonal line
+ *@n: integer
+ * Return: a diagonal line
  */
+
 
 void print_diagonal(int n)
 {
