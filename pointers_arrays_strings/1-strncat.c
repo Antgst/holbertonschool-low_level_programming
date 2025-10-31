@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _strncat - concatenate 2 strings.
+ * @dest: pointer to a string, inside it we add src
+ * @src: pointer to the string we need to add
+ * @n: length of src
+ * Return: ptr, a concactenate string.
  */
-
 
 char *_strncat(char *dest, char *src, int n)
 {
