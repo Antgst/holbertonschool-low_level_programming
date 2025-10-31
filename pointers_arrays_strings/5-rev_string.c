@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * _strlen - check the len of an str.
- * @s: char *s
- * Return: the len.
+ * rev_string - reverses a string in place
+ * @s: pointer to the string to reverse
+ *
+ * Return: void
  */
 
 void rev_string(char *s)
