@@ -2,7 +2,7 @@
 
 /**
  * print_square - print a square
- *@n: integer
+ *@size : integer
  * Return: a square
  */
 
