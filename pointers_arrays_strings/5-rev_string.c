@@ -3,7 +3,7 @@
 
 /**
  * _strlen - check the len of an str.
- * @s: char *
+ * @s: char *s
  * Return: the len.
  */
 
