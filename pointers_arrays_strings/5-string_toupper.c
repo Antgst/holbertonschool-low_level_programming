@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _strlen - check the len of an str.
- * @s: char *
- * Return: the len.
- */
+ * string_toupper - changes all lowercase letters of a string to uppercase
+ * @str: pointer to the input string
+ *
+ * Return: pointer to the modified string
+**/
 
 char *string_toupper(char *str)
 {
