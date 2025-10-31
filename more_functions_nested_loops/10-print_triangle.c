@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - print a triangle
- *@n: integer
+ * @n: integer
  * Return: a triangle
  */
 
