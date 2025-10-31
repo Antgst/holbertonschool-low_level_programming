@@ -7,15 +7,14 @@
  */
 
 char *string_toupper(char *str)
-
-	int car;
-
 {
-	for (car = 0; str[car] != '\0'; car++)
+	int mot;
+
+	for (mot = 0; str[mot] != '\0'; mot++)
 	{
-		if (str[car] >= 97 && str[car] <= 122)
+		if (str[mot] >= 97 && str[mot] <= 122)
 		{
-			str[car] = str[car] - 32;
+			str[mot] = str[mot] - 32;
 		}
 	}
 	return (str);
