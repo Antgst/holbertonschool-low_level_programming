@@ -15,5 +15,5 @@ char *_strcpy(char *dest, char *src)
 	while ((*d++ = *src++) != '\0')
 		;
 
-	return dest;
+	return (dest);
 }
