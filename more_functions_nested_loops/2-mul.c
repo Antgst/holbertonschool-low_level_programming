@@ -2,9 +2,10 @@
 #include <stdio.h>
 
 /**
- * mul - multiplie 2 int
- * @a @b - 2 numéros
- * Return: Always 0.
+ * mul - multiply
+ *@a: number 1
+ *@b : number 2
+ * Return: the multiplication of a and b.
  */
 
 int mul(int a, int b)
