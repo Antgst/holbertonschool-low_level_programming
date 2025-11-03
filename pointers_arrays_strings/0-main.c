@@ -18,7 +18,6 @@ int main(void)
 }
 
 
-/**
  * main - check the code
  *
  * Return: Always 0.
