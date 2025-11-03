@@ -23,7 +23,7 @@ int main(void)
  * main - check the code
  *
  * Return: Always 0.
- */
+
 int main(void)
 {
     char s1[98];
@@ -55,5 +55,28 @@ int main(void)
         printf("0x%02x", s1[i]);
     }
     printf("\n");
+    return (0);
+}
+*/
+
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    char *s = "hello";
+    char *f;
+
+    f = _strchr(s, 'l');
+
+    if (f != NULL)
+    {
+        printf("%s\n", f);
+    }
     return (0);
 }

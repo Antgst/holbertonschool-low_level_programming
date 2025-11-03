@@ -5,7 +5,7 @@
  * main - check the code
  *
  * Return: Always 0.
- 
+
 int main(void)
 {
     char *str;
@@ -14,7 +14,27 @@ int main(void)
     _puts(str);
     return (0);
     }
- */
+ 
+
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+
+int main(void)
+{
+    char s1[] = "Hello";
+    char s2[] = "World!";
+
+    printf("%d\n", _strcmp(s1, s2));
+    printf("%d\n", _strcmp(s2, s1));
+    printf("%d\n", _strcmp(s1, s1));
+    return (0);
+}
+*/
 
 #include "main.h"
 #include <stdio.h>
@@ -26,11 +46,11 @@ int main(void)
  */
 int main(void)
 {
-    char s1[] = "Hello";
-    char s2[] = "World!";
+    char *s = "hello, world";
+    char *f = "oleh";
+    unsigned int n;
 
-    printf("%d\n", _strcmp(s1, s2));
-    printf("%d\n", _strcmp(s2, s1));
-    printf("%d\n", _strcmp(s1, s1));
+    n = _strspn(s, f);
+    printf("%u\n", n);
     return (0);
 }
