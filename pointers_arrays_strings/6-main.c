@@ -13,7 +13,6 @@ int main(void)
     puts2(str);
     return (0);
 }
-*/
 
 #include "main.h"
 #include <stdio.h>
@@ -23,6 +22,7 @@ int main(void)
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
     char str[] = "Expect the best. Prepare for the worst. Capitalize on what comes.\nhello world! hello-world 0123456hello world\thello world.hello world\n";

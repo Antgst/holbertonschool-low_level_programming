@@ -1,10 +1,9 @@
-#include "main.h"
+/**#include "main.h"
 
-/**
  * main - check the code
  *
  * Return: Always 0.
- 
+
 int main(void)
 {
     char *str;
@@ -13,18 +12,17 @@ int main(void)
     print_rev(str);
     return (0);
 }
-*/
+
 
 #include "main.h"
 #include <stdio.h>
 
-/**
  * print_array - print an array of integers
  * @a: an array of integers
  * @n: the number of elements to swap
  *
  * Return: nothing.
- 
+
 void print_array(int *a, int n)
 {
     int i;
@@ -42,11 +40,10 @@ void print_array(int *a, int n)
     printf("\n");
 }
 
-/**
  * main - check the code
  *
  * Return: Always 0.
- 
+
 int main(void)
 {
     int a[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 98, 1024, 1337};
@@ -56,16 +53,15 @@ int main(void)
     print_array(a, sizeof(a) / sizeof(int));
     return (0);
 }
-*/
 
 #include "main.h"
 #include <stdio.h>
 
-/**
  * main - check the code
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
     char *s = "hello, world";
