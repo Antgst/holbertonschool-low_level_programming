@@ -14,12 +14,11 @@ int main(void)
     _puts(str);
     return (0);
     }
- 
+
 
 #include "main.h"
 #include <stdio.h>
 
-/**
  * main - check the code
  *
  * Return: Always 0.
