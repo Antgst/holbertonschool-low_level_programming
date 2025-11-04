@@ -1,6 +1,6 @@
+/**
 #include "main.h"
 
-/**
  * main - check the code
  *
  * Return: Always 0.
@@ -18,7 +18,6 @@ int main(void)
 #include "main.h"
 #include <stdio.h>
 
-/**
  * main - check the code for
  *
  * Return: Always 0.
@@ -33,6 +32,7 @@ int main(void)
     printf("%s", s);
     return (0);
 }
+**/
 
 #include "main.h"
 #include <stdio.h>
