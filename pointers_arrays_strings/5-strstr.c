@@ -1,14 +1,32 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
- * _strpbrk - Finds the first character in s that matches any in accept
- * @s: The main string to search through
- * @accept: The string containing accepted characters
+ * _strstr - Locates a substring in a string
+ * @haystack: The main string to search in
+ * @needle: The substring to search for
  *
- * Return: Pointer to the first matching character in s, or NULL if none found
+ * Return: Pointer to the first occurrence of needle in haystack,
+ *         or NULL if needle is not found
  */
 
-char *_strpbrk(char *s, char *accept)
+char *_strstr(char *haystack, char *needle)
 {
-	
+	int i;
+	int j;
+
+	for (j = 0; haystack[j] != '\0'; j++)
+	{
+		for (i = 0; needle[i] !='\0'; i++)
+		{
+			if (haystack[j + i] != needle [i])
+			{
+				break;
+			}
+		}
+		if (needle[i] == '\0')
+		{
+			return (&haystack[j]);
+		}
+	}
+	return (NULL);
+}
