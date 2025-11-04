@@ -1,4 +1,5 @@
-/**#include "main.h"
+/**
+#include "main.h"
 
  * main - check the code
  *
@@ -53,10 +54,13 @@ int main(void)
     print_array(a, sizeof(a) / sizeof(int));
     return (0);
 }
+*/
 
 #include "main.h"
 #include <stdio.h>
 
+
+/**
  * main - check the code
  *
  * Return: Always 0.
