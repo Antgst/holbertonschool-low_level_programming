@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+/**
+ * main - Prints the number of arguments passed into it.
+ * @argc: argument count
+ * @argv: argument vector (unused)
+ *
+ * Return: Always 0
+ */
