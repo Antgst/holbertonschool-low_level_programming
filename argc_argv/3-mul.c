@@ -2,9 +2,32 @@
 #include <stdlib.h>
 
 /**
- * main - Multiplies two numbers passed as command-line arguments
- * @argc: Argument count
- * @argv: Argument vector (array of strings)
+ * main - get the name of the program
  *
- * Return: 0 on success, 1 on error
+ * @argc: number of argument
+ * @argv: array of argument
+ *
+ * Return: always 0
  */
+
+int main(int argc, char *argv[])
+{
+	int num1;
+	int num2;
+	int multi;
+
+	if (argc != 3)
+	{
+		printf("Error\n");
+	}
+
+	else
+	{
+	num1 = atoi(argv[1]);
+	num2 = atoi(argv[2]);
+	multi = num1 * num2;
+
+	printf("%d\n", multi);
+	}
+	return (0);
+}
