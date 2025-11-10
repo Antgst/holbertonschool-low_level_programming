@@ -33,7 +33,7 @@ char *_strdup(char *str)
 	int len;
 	char *copy;
 
-	if (str == NULL);
+	if (str == NULL)
 	{
 		return (NULL);
 	}
@@ -45,7 +45,7 @@ char *_strdup(char *str)
 	{
 		return (NULL);
 	}
-	for (i = 0; i < size; i++);
+	for (i = 0; i < len; i++)
 	{
 		copy[i] = str [i];
 	}
