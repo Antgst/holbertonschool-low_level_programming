@@ -16,7 +16,7 @@ int _strlen(char *s)
 	{
 		len++;
 	}
-	return(len);
+	return (len);
 }
 
 /**
@@ -47,7 +47,7 @@ char *_strdup(char *str)
 	}
 	for (i = 0; i < len; i++)
 	{
-		copy[i] = str [i];
+		copy[i] = str[i];
 	}
 	return (copy);
 }
