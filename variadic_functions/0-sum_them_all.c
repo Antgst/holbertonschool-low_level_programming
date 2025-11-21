@@ -2,18 +2,17 @@
 #include <stdarg.h>
 
 /**
- * sum_them_all - Return the sum of all his parameters
- * @n: numbers of arguments to sum
+ * sum_them_all - Return the sum of all its parameters
+ * @n: number of arguments to sum
  *
  * Return: the sum of all the parameters, or 0 if n is 0
  */
-
 int sum_them_all(const unsigned int n, ...)
-
 {
 	int sum = 0;
 	va_list ap;
 	unsigned int i;
+	int value;
 
 	if (n == 0)
 	{
@@ -24,7 +23,7 @@ int sum_them_all(const unsigned int n, ...)
 
 	for (i = 0; i < n; i++)
 	{
-		int value = va_arg(ap, int);
+		value = va_arg(ap, int);
 		sum += value;
 	}
 
