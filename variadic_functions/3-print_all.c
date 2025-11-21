@@ -2,49 +2,50 @@
 #include <stdio.h>
 
 /**
- * print_char - prints a character
- * @ap: list of arguments
+ * print_char - Print a character
+ * @list: the list of arguments
  *
  * Return: void
  */
-void print_char(va_list ap)
+void print_char(va_list *list)
 {
-	printf("%c", va_arg(ap, int));
+	printf("%c", va_arg(*list, int));
 }
 
 /**
- * print_int - prints an integer
- * @ap: list of arguments
+ * print_int - Print an integer
+ * @list: the list of arguments
  *
  * Return: void
  */
-void print_int(va_list ap)
+void print_int(va_list *list)
 {
-	printf("%d", va_arg(ap, int));
+	printf("%d", va_arg(*list, int));
 }
 
 /**
- * print_float - prints a float
- * @ap: list of arguments
+ * print_float - Print a float
+ * @list: the list of arguments
  *
  * Return: void
  */
-void print_float(va_list ap)
+void print_float(va_list *list)
 {
-	printf("%f", va_arg(ap, double));
+	printf("%f", va_arg(*list, double));
 }
 
 /**
- * print_string - prints a string
- * @ap: list of arguments
+ * print_string - Print a string
+ * @list: the list of arguments
  *
+ * Description: if the string is NULL, print (nil)
  * Return: void
  */
-void print_string(va_list ap)
+void print_string(va_list *list)
 {
 	char *s;
 
-	s = va_arg(ap, char *);
+	s = va_arg(*list, char *);
 	if (s == NULL)
 	{
 		printf("(nil)");
@@ -55,43 +56,45 @@ void print_string(va_list ap)
 }
 
 /**
- * print_all - prints anything, according to a format string
- * @format: list of types of arguments passed to the function
+ * print_all - prints anything
+ * @format: a list of types of arguments
  *
  * Return: void
  */
 void print_all(const char * const format, ...)
 {
-	printer_t printers[] = {
-		{"c", print_char},
-		{"i", print_int},
-		{"f", print_float},
-		{"s", print_string},
-		{NULL, NULL}
+	type_t type_print[] = {
+		{'c', print_char},
+		{'i', print_int},
+		{'f', print_float},
+		{'s', print_string},
+		{0, NULL}
 	};
-	va_list ap;
-	unsigned int i = 0, j;
-	char *sep = "";
+	va_list argument_list;
+	unsigned int format_index, types_index;
+	char *separator;
 
-	va_start(ap, format);
+	separator = "";
+	format_index = 0;
+	va_start(argument_list, format);
 
-	while (format && format[i])
+	while (format != NULL && format[format_index] != '\0')
 	{
-		j = 0;
-		while (printers[j].type != NULL)
+		types_index = 0;
+		while (type_print[types_index].types != 0)
 		{
-			if (format[i] == *(printers[j].type))
+			if (format[format_index] == type_print[types_index].types)
 			{
-				printf("%s", sep);
-				printers[j].f(ap);
-				sep = ", ";
+				printf("%s", separator);
+				type_print[types_index].print_func(&argument_list);
+				separator = ", ";
 				break;
 			}
-			j++;
+			types_index++;
 		}
-		i++;
+		format_index++;
 	}
 
-	va_end(ap);
+	va_end(argument_list);
 	printf("\n");
 }
