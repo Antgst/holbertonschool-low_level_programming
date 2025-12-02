@@ -4,13 +4,13 @@
 /**
  * free_list - free the list_t list
  * @head: double pointer to the head of the list
- * 
+ *
  * Return : 0
  */
 
- void free_list(list_t *head)
- {
-	list_t *tmp
+void free_list(list_t *head)
+{
+	list_t *tmp;
 
 	while (head)
 	{
@@ -19,5 +19,4 @@
 		free(head);
 		head = tmp;
 	}
- }
- 
+}
