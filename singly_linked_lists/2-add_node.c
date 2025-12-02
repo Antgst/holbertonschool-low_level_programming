@@ -5,13 +5,15 @@
 /**
  * add_node -  function that adds a new node at the beginning of a list_t list
  * @str: pointer to the string to be stored in the new node
- * @head: test
+ * @head: double pointer to the head of the list
  *
  * Return: Pointer to the newly added node, or NULL if memory allocation fails
 */
+
 list_t *add_node(list_t **head, const char *str)
 {
 	list_t *new_node;
+
 	new_node = malloc(sizeof(list_t));
 	unsigned int len = 0;
 
