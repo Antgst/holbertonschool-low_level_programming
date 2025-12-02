@@ -20,7 +20,10 @@ list_t *add_node(list_t **head, const char *str)
 		return (NULL);
 	}
 	
-	else //else apparement optionnel
+	else 
+	/** 
+	 * else apparement optionnel 
+	 */
 	{
 		new_node->str = strdup (str);
 		
