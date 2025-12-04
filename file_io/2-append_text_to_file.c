@@ -11,7 +11,7 @@
  * Return: Success = 1, Fail = -1
  */
 
- int append_text_to_file(const char *filename, char *text_content)
+int append_text_to_file(const char *filename, char *text_content)
 {
 	int fd;
 	ssize_t write2;
@@ -33,15 +33,15 @@
 	if (len == 0)
 	{
 		close(fd);
-		return(-1);
+		return (-1);
 	}
-	
+
 	write2 = write(fd, text_content, len);
 	if (write2 == -1 || (size_t)write2 != len)
 	{
 		close(fd);
-		return(-1);
+		return (-1);
 	}
 	close(fd);
-	return(1);
+	return (1);
 }
