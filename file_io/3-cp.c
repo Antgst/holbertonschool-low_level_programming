@@ -4,7 +4,7 @@
 #include <unistd.h>
 
 /**
- * usage_error - prints usage error and exits
+ * usage_error - prints usage message and exits with code 97
  */
 static void usage_error(void)
 {
@@ -13,7 +13,7 @@ static void usage_error(void)
 }
 
 /**
- * read_error - prints read error and exits
+ * read_error - prints read error message and exits with code 98
  * @filename: name of the file that can't be read
  */
 static void read_error(const char *filename)
@@ -23,7 +23,7 @@ static void read_error(const char *filename)
 }
 
 /**
- * write_error - prints write error and exits
+ * write_error - prints write error message and exits with code 99
  * @filename: name of the file that can't be written to
  */
 static void write_error(const char *filename)
@@ -33,7 +33,7 @@ static void write_error(const char *filename)
 }
 
 /**
- * close_error - prints close error and exits
+ * close_error - prints close error message and exits with code 100
  * @fd: file descriptor that can't be closed
  */
 static void close_error(int fd)
@@ -43,9 +43,19 @@ static void close_error(int fd)
 }
 
 /**
+ * close_fd - closes a file descriptor or exits with code 100
+ * @fd: file descriptor to close
+ */
+static void close_fd(int fd)
+{
+	if (close(fd) == -1)
+		close_error(fd);
+}
+
+/**
  * main - copies the content of a file to another file
- * @ac: argument count
- * @av: argument vector
+ * @ac: number of arguments
+ * @av: array of arguments
  *
  * Return: 0 on success
  */
@@ -65,8 +75,7 @@ int main(int ac, char **av)
 	fd_to = open(av[2], O_WRONLY | O_CREAT | O_TRUNC, 0664);
 	if (fd_to == -1)
 	{
-		if (close(fd_from) == -1)
-			close_error(fd_from);
+		close_fd(fd_from);
 		write_error(av[2]);
 	}
 
@@ -77,12 +86,10 @@ int main(int ac, char **av)
 		while (off < rd)
 		{
 			wr = write(fd_to, buffer + off, rd - off);
-			if (wr == -1)
+			if (wr <= 0)
 			{
-				if (close(fd_from) == -1)
-					close_error(fd_from);
-				if (close(fd_to) == -1)
-					close_error(fd_to);
+				close_fd(fd_from);
+				close_fd(fd_to);
 				write_error(av[2]);
 			}
 			off += wr;
@@ -92,18 +99,13 @@ int main(int ac, char **av)
 
 	if (rd == -1)
 	{
-		if (close(fd_from) == -1)
-			close_error(fd_from);
-		if (close(fd_to) == -1)
-			close_error(fd_to);
+		close_fd(fd_from);
+		close_fd(fd_to);
 		read_error(av[1]);
 	}
 
-	if (close(fd_from) == -1)
-		close_error(fd_from);
-
-	if (close(fd_to) == -1)
-		close_error(fd_to);
+	close_fd(fd_from);
+	close_fd(fd_to);
 
 	return (0);
 }
