@@ -52,7 +52,7 @@ static void close_error(int fd)
 int main(int ac, char **av)
 {
 	int fd_from, fd_to;
-	ssize_t rd, wr;
+	ssize_t rd, wr, off;
 	char buffer[1024];
 
 	if (ac != 3)
@@ -70,10 +70,10 @@ int main(int ac, char **av)
 		write_error(av[2]);
 	}
 
-	while ((rd = read(fd_from, buffer, 1024)) > 0)
+	rd = read(fd_from, buffer, 1024);
+	while (rd > 0)
 	{
-		ssize_t off = 0;
-
+		off = 0;
 		while (off < rd)
 		{
 			wr = write(fd_to, buffer + off, rd - off);
@@ -87,6 +87,7 @@ int main(int ac, char **av)
 			}
 			off += wr;
 		}
+		rd = read(fd_from, buffer, 1024);
 	}
 
 	if (rd == -1)
