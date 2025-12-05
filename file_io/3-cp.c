@@ -6,6 +6,7 @@
 /**
  * usage_error - prints usage message and exits with code 97
  */
+
 static void usage_error(void)
 {
 	dprintf(STDERR_FILENO, "Usage: cp file_from file_to\n");
@@ -16,6 +17,7 @@ static void usage_error(void)
  * read_error - prints read error message and exits with code 98
  * @filename: name of the file that can't be read
  */
+
 static void read_error(const char *filename)
 {
 	dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", filename);
@@ -26,6 +28,7 @@ static void read_error(const char *filename)
  * write_error - prints write error message and exits with code 99
  * @filename: name of the file that can't be written to
  */
+
 static void write_error(const char *filename)
 {
 	dprintf(STDERR_FILENO, "Error: Can't write to %s\n", filename);
@@ -33,23 +36,17 @@ static void write_error(const char *filename)
 }
 
 /**
- * close_error - prints close error message and exits with code 100
- * @fd: file descriptor that can't be closed
- */
-static void close_error(int fd)
-{
-	dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", fd);
-	exit(100);
-}
-
-/**
  * close_fd - closes a file descriptor or exits with code 100
  * @fd: file descriptor to close
  */
+
 static void close_fd(int fd)
 {
 	if (close(fd) == -1)
-		close_error(fd);
+	{
+		dprintf(STDERR_FILENO, "Error: Can't close fd %d\n", fd);
+		exit(100);
+	}
 }
 
 /**
@@ -59,6 +56,7 @@ static void close_fd(int fd)
  *
  * Return: 0 on success
  */
+
 int main(int ac, char **av)
 {
 	int fd_from, fd_to;
@@ -86,7 +84,7 @@ int main(int ac, char **av)
 		while (off < rd)
 		{
 			wr = write(fd_to, buffer + off, rd - off);
-			if (wr <= 0)
+			if (wr == -1)
 			{
 				close_fd(fd_from);
 				close_fd(fd_to);
