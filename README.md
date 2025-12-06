@@ -664,4 +664,5 @@ Each file implements flexible APIs using variadic patterns under strict constrai
 ---
 
 ## 👤 Author
-* Antoine Gousset – GitHub: [Antgst](https://github.com/Antgst)
+Antoine Gousset — Holberton student & future fullstack dev
+- GitHub: https://github.com/Antgst
