@@ -7,7 +7,7 @@
  * @separator: string to be printed between strings
  * @n: number of strings passed to the function
  *
- * Retrun: nothing
+ * Return: nothing
  */
 
 void print_strings(const char *separator, const unsigned int n, ...)
