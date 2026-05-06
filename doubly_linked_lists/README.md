@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [What is a Doubly Linked List](https://www.youtube.com/watch?v=k0pjD12bzP0)
 
 ---
@@ -21,9 +20,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is a doubly linked list
@@ -37,7 +34,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -254,43 +250,12 @@ Directory:
 doubly_linked_lists
 File:
 0-print_dlistint.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Print list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Print list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -430,43 +395,12 @@ Directory:
 doubly_linked_lists
 File:
 1-dlistint_len.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. List length
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. List length"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -587,43 +521,12 @@ Directory:
 doubly_linked_lists
 File:
 2-add_dnodeint.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Add node
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Add node"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -744,43 +647,12 @@ Directory:
 doubly_linked_lists
 File:
 3-add_dnodeint_end.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Add node at the end
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Add node at the end"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1010,43 +882,12 @@ Directory:
 doubly_linked_lists
 File:
 4-free_dlistint.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Free list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Free list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1191,43 +1032,12 @@ Directory:
 doubly_linked_lists
 File:
 5-get_dnodeint.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Get node at index
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Get node at index"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1355,43 +1165,12 @@ Directory:
 doubly_linked_lists
 File:
 6-sum_dlistint.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Sum list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Sum list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1558,43 +1337,12 @@ Directory:
 doubly_linked_lists
 File:
 7-insert_dnodeint.c, 2-add_dnodeint.c, 3-add_dnodeint_end.c
-Score of the task
-12
-/12
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Insert at index
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Insert at index"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1926,43 +1674,12 @@ Directory:
 doubly_linked_lists
 File:
 8-delete_dnodeint.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Delete at index
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Delete at index"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

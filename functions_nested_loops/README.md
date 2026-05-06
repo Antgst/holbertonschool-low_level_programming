@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 
 - [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
@@ -31,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are nested loops and how to use them
@@ -55,7 +52,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -371,43 +367,12 @@ Directory:
 functions_nested_loops
 File:
 0-putchar.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. _putchar
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. _putchar"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -482,43 +447,12 @@ Directory:
 functions_nested_loops
 File:
 1-alphabet.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -602,43 +536,12 @@ Directory:
 functions_nested_loops
 File:
 2-print_alphabet_x10.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. 10 x alphabet
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. 10 x alphabet"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -767,43 +670,12 @@ Directory:
 functions_nested_loops
 File:
 3-islower.c
-Score of the task
-14
-/14
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. islower
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. islower"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -941,43 +813,12 @@ Directory:
 functions_nested_loops
 File:
 4-isalpha.c
-Score of the task
-14
-/14
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. isalpha
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. isalpha"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1174,43 +1015,12 @@ Directory:
 functions_nested_loops
 File:
 5-sign.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Sign
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Sign"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1316,43 +1126,12 @@ Directory:
 functions_nested_loops
 File:
 6-abs.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1458,43 +1237,12 @@ Directory:
 functions_nested_loops
 File:
 7-print_last_digit.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1565,43 +1313,12 @@ Directory:
 functions_nested_loops
 File:
 8-24_hours.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. I'm federal agent Jack Bauer, and today is the longest day of my life
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. I'm federal agent Jack Bauer, and today is the longest day of my life"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2094,43 +1811,12 @@ Directory:
 functions_nested_loops
 File:
 9-times_table.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Learn your times table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Learn your times table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2211,43 +1897,12 @@ Directory:
 functions_nested_loops
 File:
 10-add.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. a + b
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. a + b"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2826,43 +2481,12 @@ Directory:
 functions_nested_loops
 File:
 11-print_to_98.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. 98 Battery Street, the OG
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. 98 Battery Street, the OG"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

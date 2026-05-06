@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [0x0d. Structures.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/6eb80c79c99f6125450a0dc11b300d46238d1a5a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T222123Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9d9cb5cd729419835bcd5954a8d920a3c3a64a939bc238ef548a0fccbf5031f5)
 
 - [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
@@ -33,9 +32,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are structures, when, why and how to use them
@@ -47,7 +44,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -267,43 +263,12 @@ Directory:
 structures_typedef
 File:
 dog.h
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Poppy
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Poppy"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -402,43 +367,12 @@ Directory:
 structures_typedef
 File:
 1-init_dog.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. A dog is the only thing on earth that loves you more than you love yourself
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. A dog is the only thing on earth that loves you more than you love yourself"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -556,43 +490,12 @@ Directory:
 structures_typedef
 File:
 2-print_dog.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -691,43 +594,12 @@ Directory:
 structures_typedef
 File:
 dog.h
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -833,43 +705,12 @@ Directory:
 structures_typedef
 File:
 4-new_dog.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. A door is what a dog is perpetually on the wrong side of
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. A door is what a dog is perpetually on the wrong side of"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1113,43 +954,12 @@ Directory:
 structures_typedef
 File:
 5-free_dog.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

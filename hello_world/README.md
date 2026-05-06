@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Everything you need to know to start with C.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/d801279f75de6a982a55d752dfd3632909f720f0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T221805Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=559dd8a47f5be747386e4afcb756f66fc15a6c13ea5193112d09e44bba1eedd5) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
@@ -31,9 +30,7 @@ _No description detected._
 - [Linus Torvalds on C vs. C++](https://intranet.hbtn.io/rltoken/fXapDTlCYs_KsVAJhxfz6A) (*Look at only after you finish consuming the other resources*)
 
 
-
 **man or help**:
-
 
 
 - `gcc`
@@ -51,9 +48,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Why C programming is awesome
@@ -89,7 +84,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### C
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`
 
 - All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
@@ -107,9 +101,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/hs-hq/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/hs-hq/Betty/blob/master/betty-doc.pl)
 
 
-
 ### Shell Scripts
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -340,43 +332,12 @@ Directory:
 hello_world
 File:
 0-preprocessor
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Preprocessor
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Preprocessor"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -476,43 +437,12 @@ Directory:
 hello_world
 File:
 1-compiler
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Compiler
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Compiler"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -626,43 +556,12 @@ Directory:
 hello_world
 File:
 2-assembler
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Assembler
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Assembler"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -760,43 +659,12 @@ Directory:
 hello_world
 File:
 3-name
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Name
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Name"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -849,43 +717,12 @@ Directory:
 hello_world
 File:
 4-puts.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Hello, puts
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Hello, puts"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -955,43 +792,12 @@ Directory:
 hello_world
 File:
 5-printf.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Hello, printf
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Hello, printf"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1122,43 +928,12 @@ Directory:
 hello_world
 File:
 6-size.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Size is not grandeur, and territory does not make a nation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Size is not grandeur, and territory does not make a nation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1316,43 +1091,12 @@ Directory:
 hello_world
 File:
 100-intel
-Score of the task
-0
-/5
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Intel
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Intel"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1445,43 +1189,12 @@ Directory:
 hello_world
 File:
 101-quote.c
-Score of the task
-0
-/7
-pts
-0.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

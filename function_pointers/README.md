@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Function Pointer in C](https://www.geeksforgeeks.org/c/function-pointer-in-c/)
 
 - [Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
@@ -29,9 +28,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are function pointers and how to use them
@@ -45,7 +42,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -334,43 +330,12 @@ Directory:
 function_pointers
 File:
 0-print_name.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. What's my name
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. What's my name"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -511,43 +476,12 @@ Directory:
 function_pointers
 File:
 1-array_iterator.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. If you spend too much time thinking about a thing, you'll never get it done
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. If you spend too much time thinking about a thing, you'll never get it done"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -764,43 +698,12 @@ Directory:
 function_pointers
 File:
 2-int_index.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. To hell with circumstances; I create opportunities
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. To hell with circumstances; I create opportunities"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1157,43 +1060,12 @@ Directory:
 function_pointers
 File:
 3-main.c, 3-op_functions.c, 3-get_op_func.c, 3-calc.h
-Score of the task
-15
-/15
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. A goal is not always meant to be reached, it often serves simply as something to aim at
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. A goal is not always meant to be reached, it often serves simply as something to aim at"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

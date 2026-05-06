@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Everything you need to know to start with C.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2023/10/6cc7d824b12e60d8a83955cd03bcf333b248a66b.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T222210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07ff9a3a3936be8b47fda6d4bcde561fd1f0909608c1dab065de9f09dd78b53a) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if...else”, “while loops”.*)
 
 - [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
@@ -33,9 +32,7 @@ _No description detected._
 - [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 
 
-
 **man or help**:
-
 
 
 - `ascii` (*You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, `for` loops, `do...while` loops, functions.*)
@@ -47,9 +44,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are the arithmetic operators and how to use them
@@ -87,7 +82,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -422,43 +416,12 @@ Directory:
 variables_if_else_while
 File:
 0-positive_or_negative.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Positive anything is better than negative nothing
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Positive anything is better than negative nothing"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -762,43 +725,12 @@ Directory:
 variables_if_else_while
 File:
 1-last_digit.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. The last digit
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. The last digit"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -866,43 +798,12 @@ Directory:
 variables_if_else_while
 File:
 2-print_alphabet.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -968,43 +869,12 @@ Directory:
 variables_if_else_while
 File:
 3-print_alphabets.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. alphABET
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. alphABET"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1081,43 +951,12 @@ Directory:
 variables_if_else_while
 File:
 4-print_alphabt.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. When I was having that alphabet soup, I never thought that it would pay off
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. When I was having that alphabet soup, I never thought that it would pay off"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1177,43 +1016,12 @@ Directory:
 variables_if_else_while
 File:
 5-print_numbers.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Numbers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Numbers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1285,43 +1093,12 @@ Directory:
 variables_if_else_while
 File:
 6-print_numberz.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Numberz
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Numberz"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1389,43 +1166,12 @@ Directory:
 variables_if_else_while
 File:
 7-print_tebahpla.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Smile in the mirror
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Smile in the mirror"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1494,43 +1240,12 @@ Directory:
 variables_if_else_while
 File:
 8-print_base16.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Hexadecimal
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Hexadecimal"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1602,43 +1317,12 @@ Directory:
 variables_if_else_while
 File:
 9-print_comb.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Patience, persistence and perspiration make an unbeatable combination for success
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Patience, persistence and perspiration make an unbeatable combination for success"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

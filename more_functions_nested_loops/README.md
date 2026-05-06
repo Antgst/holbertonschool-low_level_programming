@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 
 - [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
@@ -29,9 +28,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are nested loops and how to use them
@@ -53,7 +50,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -367,43 +363,12 @@ Directory:
 more_functions_nested_loops
 File:
 0-isupper.c
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. isupper
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. isupper"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -504,43 +469,12 @@ Directory:
 more_functions_nested_loops
 File:
 1-isdigit.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. isdigit
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. isdigit"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -628,43 +562,12 @@ Directory:
 more_functions_nested_loops
 File:
 2-mul.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Collaboration is multiplication
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Collaboration is multiplication"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -744,43 +647,12 @@ Directory:
 more_functions_nested_loops
 File:
 3-print_numbers.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. The numbers speak for themselves
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. The numbers speak for themselves"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -863,43 +735,12 @@ Directory:
 more_functions_nested_loops
 File:
 4-print_most_numbers.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. I believe in numbers and signs
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. I believe in numbers and signs"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -987,43 +828,12 @@ Directory:
 more_functions_nested_loops
 File:
 5-more_numbers.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Numbers constitute the only universal language
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Numbers constitute the only universal language"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1128,43 +938,12 @@ Directory:
 more_functions_nested_loops
 File:
 6-print_line.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. The shortest distance between two points is a straight line
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. The shortest distance between two points is a straight line"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1279,43 +1058,12 @@ Directory:
 more_functions_nested_loops
 File:
 7-print_diagonal.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. I feel like I am diagonally parked in a parallel universe
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. I feel like I am diagonally parked in a parallel universe"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1403,43 +1151,12 @@ Directory:
 more_functions_nested_loops
 File:
 8-print_square.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. You are so much sunshine in every square inch
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. You are so much sunshine in every square inch"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1606,43 +1323,12 @@ Directory:
 more_functions_nested_loops
 File:
 9-fizz_buzz.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Fizz-Buzz
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Fizz-Buzz"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1764,43 +1450,12 @@ Directory:
 more_functions_nested_loops
 File:
 10-print_triangle.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Triangles
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Triangles"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

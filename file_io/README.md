@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [File descriptors](https://en.wikipedia.org/wiki/File_descriptor)
 
 - [How to Use the I/O System Calls Open, Close, Read and Write.](https://medium.com/@muirujackson/how-to-use-the-i-o-system-calls-open-close-read-and-write-f6f80dc61e2a)
@@ -19,9 +18,7 @@ _No description detected._
 - [C Programming in Linux Tutorial - open() read() write() Functions](https://www.youtube.com/watch?v=WxNSJAbQ8Ik)
 
 
-
 **man or help**:
-
 
 
 - `open`
@@ -41,9 +38,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - Look for the right source of information online
@@ -69,7 +64,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -725,43 +719,12 @@ Directory:
 file_io
 File:
 0-read_textfile.c
-Score of the task
-5.85
-/9
-pts
-65.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Tread lightly, she is near
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Tread lightly, she is near"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -915,43 +878,12 @@ Directory:
 file_io
 File:
 1-create_file.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Under the snow
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Under the snow"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1163,43 +1095,12 @@ Directory:
 file_io
 File:
 2-append_text_to_file.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Speak gently, she can hear
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Speak gently, she can hear"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1316,43 +1217,12 @@ Directory:
 file_io
 File:
 3-cp.c
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. cp
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. cp"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

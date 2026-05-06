@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
 
 - [Google](https://www.google.com/#q=linked+lists)
@@ -25,9 +24,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - When and why using linked lists vs arrays
@@ -39,7 +36,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -370,43 +366,12 @@ Directory:
 singly_linked_lists
 File:
 0-print_list.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Print list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Print list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -551,43 +516,12 @@ Directory:
 singly_linked_lists
 File:
 1-list_len.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. List length
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. List length"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -830,43 +764,12 @@ Directory:
 singly_linked_lists
 File:
 2-add_node.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Add node
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Add node"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1109,43 +1012,12 @@ Directory:
 singly_linked_lists
 File:
 3-add_node_end.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Add node at the end
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Add node at the end"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1255,43 +1127,12 @@ Directory:
 singly_linked_lists
 File:
 4-free_list.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Free list
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Free list"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

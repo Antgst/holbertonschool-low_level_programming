@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
 
 - [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
@@ -27,9 +26,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - How to use arguments passed to your program
@@ -43,7 +40,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -300,43 +296,12 @@ Directory:
 argc_argv
 File:
 0-whatsmyname.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. It ain't what they call you, it's what you answer to
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. It ain't what they call you, it's what you answer to"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -413,43 +378,12 @@ Directory:
 argc_argv
 File:
 1-args.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Silence is argument carried out by other means
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Silence is argument carried out by other means"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -525,43 +459,12 @@ Directory:
 argc_argv
 File:
 2-args.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. The best argument against democracy is a five-minute conversation with the average voter
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. The best argument against democracy is a five-minute conversation with the average voter"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -659,43 +562,12 @@ Directory:
 argc_argv
 File:
 3-mul.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Neither irony nor sarcasm is argument
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Neither irony nor sarcasm is argument"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -792,43 +664,12 @@ Directory:
 argc_argv
 File:
 4-add.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. To infinity and beyond
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. To infinity and beyond"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

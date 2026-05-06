@@ -11,7 +11,6 @@
 **Read or watch**:
 
 
-
 - [Recursion, introduction](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T222036Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4f0d22600cad61698297f8cab57bc878861b8ed5153660bb4585dded74689318)
 
 - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
@@ -29,9 +28,7 @@
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is recursion
@@ -47,7 +44,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -241,43 +237,12 @@ Directory:
 recursion
 File:
 0-puts_recursion.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -370,43 +335,12 @@ Directory:
 recursion
 File:
 1-print_rev_recursion.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Why is it so important to dream? Because, in my dreams we are together
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Why is it so important to dream? Because, in my dreams we are together"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -488,43 +422,12 @@ Directory:
 recursion
 File:
 2-strlen_recursion.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -644,43 +547,12 @@ Directory:
 recursion
 File:
 3-factorial.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. You mustn't be afraid to dream a little bigger, darling
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. You mustn't be afraid to dream a little bigger, darling"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -824,43 +696,12 @@ Directory:
 recursion
 File:
 4-pow_recursion.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Once an idea has taken hold of the brain it's almost impossible to eradicate
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Once an idea has taken hold of the brain it's almost impossible to eradicate"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -986,43 +827,12 @@ Directory:
 recursion
 File:
 5-sqrt_recursion.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Your subconscious is looking for the dreamer
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Your subconscious is looking for the dreamer"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1177,43 +987,12 @@ Directory:
 recursion
 File:
 6-is_prime_number.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Inception. Is it possible?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Inception. Is it possible?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

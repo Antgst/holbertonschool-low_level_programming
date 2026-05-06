@@ -11,13 +11,10 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [Do I cast the result of malloc?](https://stackoverflow.com/questions/605845/should-i-cast-the-result-of-malloc-in-c)
 
 
-
 **man or help**:
-
 
 
 - `exit (3)`
@@ -33,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - How to use the `exit` function
@@ -47,7 +42,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -439,43 +433,12 @@ Directory:
 more_malloc_free
 File:
 0-malloc_checked.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Trust no one
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Trust no one"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -589,43 +552,12 @@ Directory:
 more_malloc_free
 File:
 1-string_nconcat.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. string_nconcat
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. string_nconcat"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -922,43 +854,12 @@ Directory:
 more_malloc_free
 File:
 2-calloc.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. _calloc
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. _calloc"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1141,43 +1042,12 @@ Directory:
 more_malloc_free
 File:
 3-array_range.c
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. array_range
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. array_range"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

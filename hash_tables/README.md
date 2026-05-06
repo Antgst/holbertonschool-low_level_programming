@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://www.youtube.com/watch?v=MfhjkfocRR0)
 
 - [Hash function](https://en.wikipedia.org/wiki/Hash_function)
@@ -25,9 +24,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is a hash function
@@ -47,7 +44,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -311,43 +307,12 @@ Directory:
 hash_tables
 File:
 0-hash_table_create.c
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. >>> ht = {}
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. >>> ht = {}"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -493,43 +458,12 @@ Directory:
 hash_tables
 File:
 1-djb2.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. djb2
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. djb2"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -687,43 +621,12 @@ Directory:
 hash_tables
 File:
 2-key_index.c
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. key -> index
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. key -> index"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -850,43 +753,12 @@ Directory:
 hash_tables
 File:
 3-hash_table_set.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. >>> ht['betty'] = 'cool'
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. >>> ht['betty'] = 'cool'"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1130,43 +1002,12 @@ Directory:
 hash_tables
 File:
 4-hash_table_get.c
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. >>> ht['betty']
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. >>> ht['betty']"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1322,43 +1163,12 @@ Directory:
 hash_tables
 File:
 5-hash_table_print.c
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. >>> print(ht)
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. >>> print(ht)"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1611,43 +1421,12 @@ Directory:
 hash_tables
 File:
 6-hash_table_delete.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. >>> del ht
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. >>> del ht"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

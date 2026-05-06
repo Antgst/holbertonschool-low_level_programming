@@ -11,15 +11,12 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [0x0a - malloc & free - quick overview.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/a094c90e7f466bbeaa49cb24c8f04e7f27aaad41.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T221908Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e6048d590fc06ce1288b4607f9bbe0b4a501cb0d93cad020d8fe68ac95615b69)
 
 - [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64) (*stop at 6:50*)
 
 
-
 **man or help**:
-
 
 
 - `malloc`
@@ -33,9 +30,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What is the difference between automatic and dynamic allocation
@@ -51,7 +46,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -493,43 +487,12 @@ Directory:
 malloc_free
 File:
 0-create_array.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Float like a butterfly, sting like a bee
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Float like a butterfly, sting like a bee"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -651,43 +614,12 @@ Directory:
 malloc_free
 File:
 1-strdup.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. The woman who has no imagination has no wings
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. The woman who has no imagination has no wings"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -806,43 +738,12 @@ Directory:
 malloc_free
 File:
 2-str_concat.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. He who is not courageous enough to take risks will accomplish nothing in life
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. He who is not courageous enough to take risks will accomplish nothing in life"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1078,43 +979,12 @@ Directory:
 malloc_free
 File:
 3-alloc_grid.c
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. If you even dream of beating me you'd better wake up and apologize
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. If you even dream of beating me you'd better wake up and apologize"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1334,43 +1204,12 @@ Directory:
 malloc_free
 File:
 4-free_grid.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. It's not bragging if you can back it up
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. It's not bragging if you can back it up"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

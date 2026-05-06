@@ -11,7 +11,6 @@
 **Read or watch**:
 
 
-
 - [C - Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
 
 - [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
@@ -27,9 +26,7 @@
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are pointers and how to use them
@@ -47,7 +44,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -435,43 +431,12 @@ Directory:
 pointers_arrays_strings
 File:
 0-reset_to_98.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. 98 Battery st.
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. 98 Battery st."
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -566,43 +531,12 @@ Directory:
 pointers_arrays_strings
 File:
 1-swap.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Don't swap horses in crossing a stream
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Don't swap horses in crossing a stream"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -687,43 +621,12 @@ Directory:
 pointers_arrays_strings
 File:
 2-strlen.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. This report, by its very length, defends itself against the risk of being read
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. This report, by its very length, defends itself against the risk of being read"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -826,43 +729,12 @@ Directory:
 pointers_arrays_strings
 File:
 3-puts.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. I do not fear computers. I fear the lack of them
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. I do not fear computers. I fear the lack of them"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -954,43 +826,12 @@ Directory:
 pointers_arrays_strings
 File:
 4-print_rev.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. I can only go one way. I've not got a reverse gear
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. I can only go one way. I've not got a reverse gear"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1074,43 +915,12 @@ Directory:
 pointers_arrays_strings
 File:
 5-rev_string.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1200,43 +1010,12 @@ Directory:
 pointers_arrays_strings
 File:
 6-puts2.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Half the lies they tell about me aren't true
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Half the lies they tell about me aren't true"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1331,43 +1110,12 @@ Directory:
 pointers_arrays_strings
 File:
 7-puts_half.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Winning is only half of it. Having fun is the other half
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Winning is only half of it. Having fun is the other half"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1487,43 +1235,12 @@ Directory:
 pointers_arrays_strings
 File:
 8-print_array.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Arrays are not pointers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Arrays are not pointers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1622,43 +1339,12 @@ Directory:
 pointers_arrays_strings
 File:
 9-strcpy.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. strcpy
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. strcpy"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1813,43 +1499,12 @@ Directory:
 pointers_arrays_strings
 File:
 100-atoi.c
-Score of the task
-19
-/19
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

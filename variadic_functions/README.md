@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**:
 
 
-
 - [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
 
 - [Variadic Functions](https://sourceware.org/glibc/manual/)
@@ -19,15 +18,12 @@ _No description detected._
 - [Const Keyword](https://www.youtube.com/watch?v=1W4oyuOdXv8)
 
 
-
 <!-- - [C - Variable Arguments](https://www.tutorialspoint.com/cprogramming/c_variable_arguments.htm)
 
 - [Functions with Variable Argument Lists in C using va_list](https://www.cprogramming.com/tutorial/c/lesson17.html) -->
 
 
-
 **man or help**:
-
 
 
 - `stdarg`
@@ -39,9 +35,7 @@ _No description detected._
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
 
-
 ### General
-
 
 
 - What are variadic functions
@@ -55,7 +49,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## ✅ Requirements
 
 ### General
-
 
 
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -181,43 +174,12 @@ Directory:
 variadic_functions
 File:
 0-sum_them_all.c
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Beauty is variable, ugliness is constant
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Beauty is variable, ugliness is constant"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -336,43 +298,12 @@ Directory:
 variadic_functions
 File:
 1-print_numbers.c
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. To be is to be the value of a variable
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. To be is to be the value of a variable"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -488,43 +419,12 @@ Directory:
 variadic_functions
 File:
 2-print_strings.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. One woman's constant is another woman's variable
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. One woman's constant is another woman's variable"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -667,43 +567,12 @@ Directory:
 variadic_functions
 File:
 3-print_all.c
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. To be is a to be the value of a variable
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. To be is a to be the value of a variable"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
