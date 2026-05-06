@@ -1,1 +1,1502 @@
-bonjour
+# ðŸ“˜ C - Hello, World
+
+## ðŸ“Œ Description
+
+_No description detected._
+
+---
+
+## ðŸ“š Resources
+
+**Read or watch**:
+
+
+
+- [Everything you need to know to start with C.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2021/1/d801279f75de6a982a55d752dfd3632909f720f0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T221805Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=559dd8a47f5be747386e4afcb756f66fc15a6c13ea5193112d09e44bba1eedd5) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
+
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+
+- ["C" Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+
+- [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+
+- [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+
+- [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
+
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+
+- [Betty Coding Style](https://github.com/hs-hq/Betty/wiki)
+
+- [Linus Torvalds on C vs. C++](https://intranet.hbtn.io/rltoken/fXapDTlCYs_KsVAJhxfz6A) (*Look at only after you finish consuming the other resources*)
+
+
+
+**man or help**:
+
+
+
+- `gcc`
+
+- `printf (3)`
+
+- `puts`
+
+- `putchar`
+
+---
+
+## ðŸŽ¯ Learning Objectives
+
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
+
+
+
+### General
+
+
+
+- Why C programming is awesome
+
+- Who invented C
+
+- Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
+
+- What happens when you type `gcc main.c`
+
+- What is an entry point
+
+- What is `main`
+
+- How to print text using `printf`, `puts` and `putchar`
+
+- How to get the size of a specific type using the unary operator `sizeof`
+
+- How to compile using `gcc`
+
+- What is the default program name when compiling with `gcc`
+
+- What is the official C coding style and how to check your code with `betty-style`
+
+- How to find the right header to include in your source code when using a standard library function
+
+- How does the `main` function influence the return value of the program
+
+---
+
+## âœ… Requirements
+
+### C
+
+
+
+- Allowed editors: `vi`, `vim`, `emacs`
+
+- All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+
+- All your files should end with a new line
+
+- A `README.md` file at the root of the repo, containing a description of the repository
+
+- A `README.md` file, at the root of the folder of *this* project, containing a description of the project
+
+- There should be no errors and no warnings during compilation
+
+- You are not allowed to use `system`
+
+- Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/hs-hq/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/hs-hq/Betty/blob/master/betty-doc.pl)
+
+
+
+### Shell Scripts
+
+
+
+- Allowed editors: `vi`, `vim`, `emacs`
+
+- All your scripts will be tested on Ubuntu 20.04 LTS
+
+- All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
+
+- All your files should end with a new line
+
+- The first line of all your files should be exactly `#!/bin/bash`
+
+---
+
+## âš™ï¸ Setup
+
+_No specific setup detected._
+
+---
+
+## ðŸ§  Quiz
+
+<details>
+<summary>Question #0</summary>
+
+**Question:** In which category belongs the C programming language?
+
+**Available answers:**
+
+- `Interpreted language`
+- `Compiled language`
+
+**Answer:** `Compiled language`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+<details>
+<summary>Question #1</summary>
+
+**Question:** What is the common extension for a C source file?
+
+**Available answers:**
+
+- `.txt`
+- `.c`
+- `.cpp`
+- `.py`
+
+**Answer:** `.c`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+<details>
+<summary>Question #2</summary>
+
+**Question:** What is the common extension for a C header file?
+
+**Available answers:**
+
+- `.header`
+- `.hpp`
+- `.h`
+- `.ch`
+
+**Answer:** `.h`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+<details>
+<summary>Question #3</summary>
+
+**Question:** Which command can be used to compile a C source file?
+
+**Available answers:**
+
+- `c-compiler`
+- `gcc`
+- `bash`
+
+**Answer:** `gcc`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+<details>
+<summary>Question #4</summary>
+
+**Question:** Which of the following are both valid comment syntaxes in ANSI C, and Betty-compliant?
+
+**Available answers:**
+
+- `/* Comment */`
+- `// Comment`
+- `/*
+Comment
+*/`
+- `/*
+ * Comment
+ */`
+- `# Comment`
+- `/* Comment /* nested */ */`
+
+**Answer:** `/*
+ * Comment
+ */`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+<details>
+<summary>Question #5</summary>
+
+**Question:** What are the different steps to form an executable file from C source code
+
+**Available answers:**
+
+- `Interpretation, compilation and assembly`
+- `Preprocessing, compilation, assembly, and linking`
+- `Interpretation, assembly and compilation`
+- `Compilation and linking`
+- `Preprocessing and compilation`
+
+**Answer:** `Preprocessing, compilation, assembly, and linking`
+
+**Explanation / tip:**
+
+_To be reviewed and completed manually if needed._
+
+</details>
+
+
+---
+
+## ðŸ§© Tasks
+
+<details>
+<summary>0. Preprocessor</summary>
+
+**Files:**
+
+- [`0-preprocessor`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/0-preprocessor)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+0. Preprocessor
+Write a script that runs a C file through the preprocessor and save the result into another file.
+The C file name will be saved in the variable
+$CFILE
+The output should be saved in the file
+c
+julien@ubuntu:~/c/$ cat main.c
+#
+include
+<stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int
+main(
+void
+)
+{
+return
+(
+0
+);
+}
+julien@ubuntu:~/c/$
+export
+CFILE
+=main.c
+julien@ubuntu:~/c/$ ./
+0
+-preprocessor
+julien@ubuntu:~/c/$ tail c
+#
+942
+"/usr/include/stdio.h"
+3
+4
+#
+2
+"main.c"
+2
+#
+3
+"main.c"
+int
+main(
+void
+)
+{
+return
+(
+0
+);
+}
+julien@ubuntu:~/c/$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+0-preprocessor
+Score of the task
+5
+/5
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+0. Preprocessor
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "0. Preprocessor"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>1. Compiler</summary>
+
+**Files:**
+
+- [`1-compiler`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/1-compiler)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+1. Compiler
+Write a script that compiles a C file but does not link.
+The C file name will be saved in the variable
+$CFILE
+The output file should be named the same as the C file, but with the extension
+.o
+instead of
+.c
+.
+Example: if the C file is
+main.c
+, the output file should be
+main.o
+julien@ubuntu:~
+/c/
+$ export CFILE=main.c
+julien@ubuntu:~
+/c/
+$ cat main.c
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always
+0
+(Success)
+ *
+/
+int main(void)
+{
+    return (0);
+}
+julien@ubuntu:~/
+c/$ ./
+1
+-compiler
+julien@ubuntu:~
+/c/
+$ ls
+0
+-preprocessor
+1
+-compiler   c            main.o
+Makefile
+100
+-intel      main.c  main.s
+julien@ubuntu:~
+/c/
+$ cat -v main.o | head
+^?ELF^B^A^A^@^@^@^@^@^@^@^@^@^A^@>^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^P^B^@^@^@^@^@^@^@^@^@^@@^@^@^@^@^@@^@^K^@^H^@UHM-^IM-eM-
+8
+^@^@^@^@]M-C^@GCC: (Ubuntu
+5.4
+.
+0
+-
+6
+ubuntu1~
+16.04
+.
+2
+)
+5.4
+.
+0
+20160609
+^@^T^@^@^@^@^@^@^@^AzR^@^Ax^P^A^[^L^G^HM-^P^A^@^@^\^@^@^@^\^@^@^@^@^@^@^@^K^@^@^@^@A^N^PM-^F^BC^M^FF^L^G^H^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^D^@M-qM-^?^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^B^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^E^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^F^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^C^@^D^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^H^@^@^@^R^@^A^@^@^@^@^@^@^@^@^@^K^@^@^@^@^@^@^@^@main.c^@main^@^@^@^@ ^@^@^@^@^@^@^@^B^@^@^@^B^@^@^@^@^@^@^@^@^@^@^@^@.symtab^@.strtab^@.shstrtab^@.text^@.data^@.bss^@.comment^@.note.GNU-stack^@.rela.eh_frame^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^[^@^@^@^A^@^@^@^F^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@@^@^@^@^@^@^@^@^K^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@!^@^@^@^A^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@K^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@'^@^@^@^H^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@K^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@,^@^@^@^A^@^@^@0^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@K^@^@^@^@^@^@^@5^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@5^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@J^@^@^@^A^@^@^@^B^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-^@^@^@^@^@^@^@^@8^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^H^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@E^@^@^@^D^@^@^@@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M- ^A^@^@^@^@^@^@^X^@^@^@^@^@^@^@    ^@^@^@^F^@^@^@^H^@^@^@^@^@^@^@^X^@^@^@^@^@^@^@^Q^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-
+8
+^A^@^@^@^@^@^@T^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^B^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-
+8
+^@^@^@^@^@^@^@M-X^@^@^@^@^@^@^@
+^@^@^@^H^@^@^@^H^@^@^@^@^@^@^@^X^@^@^@^@^@^@^@    ^@^@^@^C^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@M-^P^A^@^@^@^@^@^@^M^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^A^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@julien@ubuntu:~
+/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+1-compiler
+Score of the task
+5
+/5
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+1. Compiler
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "1. Compiler"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>2. Assembler</summary>
+
+**Files:**
+
+- [`2-assembler`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/2-assembler)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+2. Assembler
+Write a script that generates the assembly code of a C code and save it in an output file.
+The C file name will be saved in the variable
+$CFILE
+The output file should be named the same as the C file, but with the extension
+.s
+instead of
+.c
+.
+Example: if the C file is
+main.c
+, the output file should be
+main.s
+julien@ubuntu:~
+/c/
+$ export CFILE=main.c
+julien@ubuntu:~
+/c/
+$ cat main.c
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always
+0
+(Success)
+ *
+/
+int main(void)
+{
+    return (0);
+}
+julien@ubuntu:~/
+c/$ ./
+2
+-assembler
+julien@ubuntu:~
+/c/
+$ ls
+0
+-preprocessor
+1
+-compiler
+2
+-assembler c  main.c  main.s  Makefile
+julien@ubuntu:~
+/c/
+$ cat main.s
+    .file
+"main.c"
+.text
+    .globl  main
+    .type   main, @function
+main:
+.LFB
+0
+:
+    .cfi_startproc
+    pushq   %rbp
+    .cfi_def_cfa_offset
+16
+.cfi_offset
+6
+, -
+16
+movq    %rsp, %rbp
+    .cfi_def_cfa_register
+6
+movl    $0, %eax
+    popq    %rbp
+    .cfi_def_cfa
+7
+,
+8
+ret
+    .cfi_endproc
+.LFE
+0
+:
+    .size   main, .-main
+    .ident
+"GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0 20160609"
+.section    .note.GNU-stack,
+""
+,@progbits
+julien@ubuntu:~
+/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+2-assembler
+Score of the task
+5
+/5
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+2. Assembler
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "2. Assembler"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>3. Name</summary>
+
+**Files:**
+
+- [`3-name`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/3-name)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+3. Name
+Write a script that compiles a C file and creates an executable named
+cisfun
+.
+The C file name will be saved in the variable
+$CFILE
+julien
+@ubuntu
+:~
+/c/
+$
+export
+CFILE
+=main.
+c
+julien
+@ubuntu
+:~
+/c/
+$ cat main.
+c
+#include <stdio.
+h
+>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int
+main
+(
+void
+)
+{
+return
+(
+0
+);
+}
+julien
+@ubuntu
+:~
+/c/
+$ ./
+3
+-name
+julien
+@ubuntu
+:~
+/c/
+$ ls
+0
+-preprocessor
+1
+-compiler
+3
+-name  cisfun  main.
+o
+Makefile
+100
+-intel
+2
+-assembler  c       main.
+c
+main.
+s
+julien
+@ubuntu
+:~
+/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+3-name
+Score of the task
+5
+/5
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+3. Name
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "3. Name"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>4. Hello, puts</summary>
+
+**Files:**
+
+- [`4-puts.c`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/4-puts.c)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+4. Hello, puts
+Write a C program that prints exactly
+"Programming is like building a multilingual puzzle
+, followed by a new line.
+Use the function
+puts
+You are not allowed to use
+printf
+Your program should end with the value
+0
+julien
+@ubuntu
+:~/c/
+$
+gcc -
+Wall
+-
+Werror
+-
+Wextra
+-pedantic -std=gnu89
+4
+-puts.c && ./a.out
+"Programming is like building a multilingual puzzle
+julien@ubuntu:~/c/$ echo $?
+0
+julien@ubuntu:~/c/$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+4-puts.c
+Score of the task
+7
+/7
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+4. Hello, puts
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "4. Hello, puts"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>5. Hello, printf</summary>
+
+**Files:**
+
+- [`5-printf.c`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/5-printf.c)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+5. Hello, printf
+Write a C program that prints exactly
+with proper grammar, but the outcome is a piece of art,
+, followed by a new line.
+Use the function
+printf
+You are not allowed to use the function
+puts
+Your program should return
+0
+Your program should compile without warning when using the
+-Wall
+gcc
+option
+julien
+@ubuntu
+:~/c/
+$
+gcc -
+Wall
+-
+Werror
+-
+Wextra
+-pedantic -std=gnu89
+5
+-printf.c
+julien
+@ubuntu
+:~/c/
+$
+./a.out
+with proper grammar, but the outcome is a piece of art,
+julien
+@ubuntu
+:~/c/
+$
+echo
+$?
+0
+julien
+@ubuntu
+:~/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+5-printf.c
+Score of the task
+7
+/7
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+5. Hello, printf
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "5. Hello, printf"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>6. Size is not grandeur, and territory does not make a nation</summary>
+
+**Files:**
+
+- [`6-size.c`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/6-size.c)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+6. Size is not grandeur, and territory does not make a nation
+Write a C program that prints the size of various types on the computer it is compiled and run on.
+You should produce the exact same output as in the example
+Warnings are allowed
+Your program should return
+0
+If you are using a linux on Vagrant you might have to install the package
+libc6-dev-i386
+to test the
+-m32
+gcc
+option (normally you dont need to do anything on your sandbox).
+julien
+@ubuntu
+:~/c/
+$
+gcc
+6
+-size.c -m32 -o size32
+2
+>
+/tmp/
+32
+julien
+@ubuntu
+:~/c/
+$
+gcc
+6
+-size.c -m64 -o size64
+2
+>
+/tmp/
+64
+julien
+@ubuntu
+:~/c/
+$
+./size32
+Size
+of a
+char:
+1
+byte(s)
+Size
+of an
+int:
+4
+byte(s)
+Size
+of a long
+int:
+4
+byte(s)
+Size
+of a long long
+int:
+8
+byte(s)
+Size
+of a
+float:
+4
+byte(s)
+julien
+@ubuntu
+:~/c/
+$
+./size64
+Size
+of a
+char:
+1
+byte(s)
+Size
+of an
+int:
+4
+byte(s)
+Size
+of a long
+int:
+8
+byte(s)
+Size
+of a long long
+int:
+8
+byte(s)
+Size
+of a
+float:
+4
+byte(s)
+julien
+@ubuntu
+:~/c/
+$
+echo
+$?
+0
+julien
+@ubuntu
+:~/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+6-size.c
+Score of the task
+7
+/7
+pts
+100.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+6. Size is not grandeur, and territory does not make a nation
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "6. Size is not grandeur, and territory does not make a nation"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>8. Intel #advanced</summary>
+
+**Files:**
+
+- [`100-intel`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/100-intel)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+8. Intel
+#advanced
+Write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+The C file name will be saved in the variable
+$CFILE
+.
+The output file should be named the same as the C file, but with the extension
+.s
+instead of
+.c
+.
+Example: if the C file is
+main.c
+, the output file should be
+main.s
+julien
+@ubuntu
+:~
+/c/
+$
+export
+CFILE
+=main.
+c
+julien
+@ubuntu
+:~
+/c/
+$ cat main.
+c
+#include <stdio.
+h
+>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int
+main
+(
+void
+)
+{
+return
+(
+0
+);
+}
+julien
+@ubuntu
+:~
+/c/
+$ ./
+100
+-intel
+julien
+@ubuntu
+:~
+/c/
+$ cat main.
+s
+.
+file
+"main.c"
+.
+intel_syntax
+noprefix
+    .
+text
+.
+globl
+main
+    .
+type
+main,
+@function
+main
+:
+.
+LFB0
+:
+    .
+cfi_startproc
+push    rbp
+    .
+cfi_def_cfa_offset
+16
+.
+cfi_offset
+6
+, -
+16
+mov rbp, rsp
+    .
+cfi_def_cfa_register
+6
+mov eax,
+0
+pop rbp
+    .
+cfi_def_cfa
+7
+,
+8
+ret
+    .
+cfi_endproc
+.
+LFE0
+:
+    .
+size
+main, .-main
+    .
+ident
+"GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0 20160609"
+.
+section
+.
+note
+.
+GNU
+-stack,
+""
+,
+@progbits
+julien
+@ubuntu
+:~
+/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+100-intel
+Score of the task
+0
+/5
+pts
+0.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+8. Intel
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "8. Intel"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+<details>
+<summary>9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity #advanced</summary>
+
+**Files:**
+
+- [`101-quote.c`](https://github.com/Antgst/holbertonschool-low_level_programming/blob/main/hello_world/101-quote.c)
+
+**Repository:** `holbertonschool-low_level_programming`
+
+**Directory:** `hello_world`
+
+**Task details:**
+
+```text
+9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
+#advanced
+Write a C program that prints exactly
+and that piece of art is useful" - Dora Korpar, 2015-10-19
+, followed by a new line, to the standard error.
+You are not allowed to use any functions listed in the NAME section of the man (3)
+printf
+or man (3)
+puts
+Your program should return 1
+Your program should compile without any warnings when using the
+-Wall
+gcc
+option
+julien
+@ubuntu
+:~/c/
+$
+gcc -
+Wall
+-
+Werror
+-
+Wextra
+-pedantic -std=gnu89 -o quote
+101
+-quote.c
+julien
+@ubuntu
+:~/c/
+$
+./quote
+and
+that piece of art is useful
+" - Dora Korpar, 2015-10-19
+julien@ubuntu:~/c/$ echo $?
+1
+julien@ubuntu:~/c/$ ./quote 2> q
+julien@ubuntu:~/c/$ cat q
+and that piece of art is useful"
+-
+Dora
+Korpar
+,
+2015
+-
+10
+-
+19
+julien
+@ubuntu
+:~/c/
+$
+grep printf <
+101
+-quote.c
+julien
+@ubuntu
+:~/c/
+$
+grep put <
+101
+-quote.c
+julien
+@ubuntu
+:~/c/
+$
+Repo:
+GitHub repository:
+holbertonschool-low_level_programming
+Directory:
+hello_world
+File:
+101-quote.c
+Score of the task
+0
+/7
+pts
+0.0%
+0
+correction requests
+My GitHub
+Connect GitHub
+Connect as:
+Disconnect
+Repository
+Select a repositoryâ€¦
+Folder (optional)
+Run the correction
+Get a sandbox
+QA Review
+Ã—
+9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
+Commit used:
+User:
+---
+URL:
+Click here
+ID:
+---
+Author:
+---
+Subject:
+---
+Date:
+---
+Ã—
+Students who are done with "9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity"
+Ã—
+Recommended Sandboxes
+Loading...
+```
+
+</details>
+
+
+---
+
+## ðŸ§ª Testing
+
+Use the provided task examples and Holberton checker to validate the project.
+
+---
+
+## ðŸ‘¤ Author
+
+Project from Holberton School.
+
+README generated with Antoine's README Factory workflow.
