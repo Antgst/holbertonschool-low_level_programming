@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Recursion
+# 📘 C - Recursion
 
-## ðŸ“Œ Description
+## 📌 Description
 
 <img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/219/a88.jpg" />
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -24,7 +24,7 @@
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -44,7 +44,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -82,13 +82,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -192,7 +192,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget</summary>
@@ -253,12 +253,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
 Commit used:
 User:
@@ -273,9 +273,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -382,12 +382,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Why is it so important to dream? Because, in my dreams we are together
 Commit used:
 User:
@@ -402,9 +402,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Why is it so important to dream? Because, in my dreams we are together"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -500,12 +500,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
 Commit used:
 User:
@@ -520,9 +520,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -656,12 +656,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. You mustn't be afraid to dream a little bigger, darling
 Commit used:
 User:
@@ -676,9 +676,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. You mustn't be afraid to dream a little bigger, darling"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -836,12 +836,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Once an idea has taken hold of the brain it's almost impossible to eradicate
 Commit used:
 User:
@@ -856,9 +856,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Once an idea has taken hold of the brain it's almost impossible to eradicate"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -998,12 +998,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Your subconscious is looking for the dreamer
 Commit used:
 User:
@@ -1018,9 +1018,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Your subconscious is looking for the dreamer"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1189,12 +1189,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Inception. Is it possible?
 Commit used:
 User:
@@ -1209,9 +1209,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Inception. Is it possible?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1221,13 +1221,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

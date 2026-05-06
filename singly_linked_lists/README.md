@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Singly linked lists
+# 📘 C - Singly linked lists
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -20,7 +20,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -36,7 +36,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -72,13 +72,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -187,7 +187,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Print list</summary>
@@ -382,12 +382,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Print list
 Commit used:
 User:
@@ -402,9 +402,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Print list"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -563,12 +563,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. List length
 Commit used:
 User:
@@ -583,9 +583,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. List length"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -842,12 +842,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Add node
 Commit used:
 User:
@@ -862,9 +862,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Add node"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1121,12 +1121,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Add node at the end
 Commit used:
 User:
@@ -1141,9 +1141,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Add node at the end"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1267,12 +1267,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Free list
 Commit used:
 User:
@@ -1287,9 +1287,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Free list"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1299,13 +1299,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

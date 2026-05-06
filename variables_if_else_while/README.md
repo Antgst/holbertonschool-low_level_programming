@@ -1,18 +1,18 @@
-# ðŸ“˜ C - Variables, if, else, while
+# 📘 C - Variables, if, else, while
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
 
 
-- [Everything you need to know to start with C.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2023/10/6cc7d824b12e60d8a83955cd03bcf333b248a66b.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T222210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07ff9a3a3936be8b47fda6d4bcde561fd1f0909608c1dab065de9f09dd78b53a) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: â€œcommentsâ€, â€œData types | Integer typesâ€, â€œDeclarationâ€, â€œCharactersâ€, â€œArithmetic operatorsâ€, â€œVariables assignmentsâ€, â€œComparisonsâ€, â€œLogical operatorsâ€, â€œif, if...elseâ€, â€œwhile loopsâ€.*)
+- [Everything you need to know to start with C.pdf](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/misc/2023/10/6cc7d824b12e60d8a83955cd03bcf333b248a66b.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T222210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07ff9a3a3936be8b47fda6d4bcde561fd1f0909608c1dab065de9f09dd78b53a) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if...else”, “while loops”.*)
 
 - [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 
@@ -42,7 +42,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -84,7 +84,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -106,13 +106,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -277,7 +277,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Positive anything is better than negative nothing</summary>
@@ -434,12 +434,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Positive anything is better than negative nothing
 Commit used:
 User:
@@ -454,9 +454,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Positive anything is better than negative nothing"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -774,12 +774,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. The last digit
 Commit used:
 User:
@@ -794,9 +794,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. The last digit"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -825,7 +825,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -878,12 +878,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 Commit used:
 User:
@@ -898,9 +898,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -929,7 +929,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -980,12 +980,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. alphABET
 Commit used:
 User:
@@ -1000,9 +1000,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. alphABET"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1035,7 +1035,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -1093,12 +1093,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. When I was having that alphabet soup, I never thought that it would pay off
 Commit used:
 User:
@@ -1113,9 +1113,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. When I was having that alphabet soup, I never thought that it would pay off"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1189,12 +1189,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Numbers
 Commit used:
 User:
@@ -1209,9 +1209,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Numbers"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1244,7 +1244,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 You can only use
 putchar
 twice in your code
@@ -1297,12 +1297,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Numberz
 Commit used:
 User:
@@ -1317,9 +1317,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Numberz"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1348,7 +1348,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -1401,12 +1401,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Smile in the mirror
 Commit used:
 User:
@@ -1421,9 +1421,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Smile in the mirror"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1452,7 +1452,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -1506,12 +1506,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Hexadecimal
 Commit used:
 User:
@@ -1526,9 +1526,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Hexadecimal"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1561,7 +1561,7 @@ function (every other function (
 printf
 ,
 puts
-, etcâ€¦) is forbidden)
+, etc…) is forbidden)
 All your code should be in the
 main
 function
@@ -1614,12 +1614,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Patience, persistence and perspiration make an unbeatable combination for success
 Commit used:
 User:
@@ -1634,9 +1634,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Patience, persistence and perspiration make an unbeatable combination for success"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1646,13 +1646,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

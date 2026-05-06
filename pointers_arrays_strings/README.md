@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Pointers, arrays and strings
+# 📘 C - Pointers, arrays and strings
 
-## ðŸ“Œ Description
+## 📌 Description
 
 <img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/216/IMG_2410.JPG" />
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -22,7 +22,7 @@
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -44,7 +44,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -78,13 +78,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -348,7 +348,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. 98 Battery st.</summary>
@@ -447,12 +447,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. 98 Battery st.
 Commit used:
 User:
@@ -467,9 +467,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. 98 Battery st."
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -578,12 +578,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Don't swap horses in crossing a stream
 Commit used:
 User:
@@ -598,9 +598,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Don't swap horses in crossing a stream"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -699,12 +699,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. This report, by its very length, defends itself against the risk of being read
 Commit used:
 User:
@@ -719,9 +719,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. This report, by its very length, defends itself against the risk of being read"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -838,12 +838,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. I do not fear computers. I fear the lack of them
 Commit used:
 User:
@@ -858,9 +858,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. I do not fear computers. I fear the lack of them"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -966,12 +966,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. I can only go one way. I've not got a reverse gear
 Commit used:
 User:
@@ -986,9 +986,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. I can only go one way. I've not got a reverse gear"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1086,12 +1086,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
 Commit used:
 User:
@@ -1106,9 +1106,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1212,12 +1212,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Half the lies they tell about me aren't true
 Commit used:
 User:
@@ -1232,9 +1232,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Half the lies they tell about me aren't true"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1343,12 +1343,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Winning is only half of it. Having fun is the other half
 Commit used:
 User:
@@ -1363,9 +1363,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Winning is only half of it. Having fun is the other half"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1499,12 +1499,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Arrays are not pointers
 Commit used:
 User:
@@ -1519,9 +1519,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Arrays are not pointers"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1634,12 +1634,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. strcpy
 Commit used:
 User:
@@ -1654,9 +1654,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. strcpy"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1825,12 +1825,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 Commit used:
 User:
@@ -1845,9 +1845,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1857,13 +1857,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

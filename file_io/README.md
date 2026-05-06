@@ -1,12 +1,12 @@
-# ðŸ“˜ C - File I/O
+# 📘 C - File I/O
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -36,7 +36,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -66,7 +66,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -106,13 +106,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -426,7 +426,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Tread lightly, she is near</summary>
@@ -737,12 +737,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Tread lightly, she is near
 Commit used:
 User:
@@ -757,9 +757,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Tread lightly, she is near"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -797,7 +797,7 @@ on success,
 -1
 on failure (file can not be created, file can not be written,
 write
-"fails", etcâ€¦)
+"fails", etc…)
 The created file must have those permissions:
 rw-------
 . If the file already exists, do not change the permissions.
@@ -927,12 +927,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Under the snow
 Commit used:
 User:
@@ -947,9 +947,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Under the snow"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1175,12 +1175,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Speak gently, she can hear
 Commit used:
 User:
@@ -1195,9 +1195,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Speak gently, she can hear"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1328,12 +1328,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. cp
 Commit used:
 User:
@@ -1348,9 +1348,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. cp"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1360,13 +1360,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

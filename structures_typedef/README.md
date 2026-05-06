@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Structures, typedef
+# 📘 C - Structures, typedef
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -28,7 +28,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -44,7 +44,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -74,13 +74,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -163,7 +163,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Poppy</summary>
@@ -279,12 +279,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Poppy
 Commit used:
 User:
@@ -299,9 +299,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Poppy"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -414,12 +414,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. A dog is the only thing on earth that loves you more than you love yourself
 Commit used:
 User:
@@ -434,9 +434,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. A dog is the only thing on earth that loves you more than you love yourself"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -568,12 +568,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
 Commit used:
 User:
@@ -588,9 +588,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -703,12 +703,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 Commit used:
 User:
@@ -723,9 +723,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -845,12 +845,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. A door is what a dog is perpetually on the wrong side of
 Commit used:
 User:
@@ -865,9 +865,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. A door is what a dog is perpetually on the wrong side of"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1125,12 +1125,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
 Commit used:
 User:
@@ -1145,9 +1145,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1157,13 +1157,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

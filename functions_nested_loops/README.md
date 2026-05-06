@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Functions, nested loops
+# 📘 C - Functions, nested loops
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -26,7 +26,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -52,7 +52,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -86,13 +86,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -315,7 +315,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. _putchar</summary>
@@ -383,12 +383,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. _putchar
 Commit used:
 User:
@@ -403,9 +403,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. _putchar"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -494,12 +494,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 Commit used:
 User:
@@ -514,9 +514,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -614,12 +614,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. 10 x alphabet
 Commit used:
 User:
@@ -634,9 +634,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. 10 x alphabet"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -779,12 +779,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. islower
 Commit used:
 User:
@@ -799,9 +799,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. islower"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -953,12 +953,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. isalpha
 Commit used:
 User:
@@ -973,9 +973,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. isalpha"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1186,12 +1186,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Sign
 Commit used:
 User:
@@ -1206,9 +1206,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Sign"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1328,12 +1328,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
 Commit used:
 User:
@@ -1348,9 +1348,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1470,12 +1470,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 Commit used:
 User:
@@ -1490,9 +1490,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1577,12 +1577,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. I'm federal agent Jack Bauer, and today is the longest day of my life
 Commit used:
 User:
@@ -1597,9 +1597,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. I'm federal agent Jack Bauer, and today is the longest day of my life"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2106,12 +2106,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Learn your times table
 Commit used:
 User:
@@ -2126,9 +2126,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Learn your times table"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2223,12 +2223,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. a + b
 Commit used:
 User:
@@ -2243,9 +2243,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. a + b"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2838,12 +2838,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. 98 Battery Street, the OG
 Commit used:
 User:
@@ -2858,9 +2858,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. 98 Battery Street, the OG"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2870,13 +2870,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

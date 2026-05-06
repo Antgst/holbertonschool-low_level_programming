@@ -1,12 +1,12 @@
-# ðŸ“˜ C - Hello, World
+# 📘 C - Hello, World
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -46,7 +46,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -84,7 +84,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### C
 
@@ -124,13 +124,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -261,7 +261,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Preprocessor</summary>
@@ -352,12 +352,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Preprocessor
 Commit used:
 User:
@@ -372,9 +372,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Preprocessor"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -488,12 +488,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Compiler
 Commit used:
 User:
@@ -508,9 +508,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Compiler"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -638,12 +638,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Assembler
 Commit used:
 User:
@@ -658,9 +658,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Assembler"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -772,12 +772,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Name
 Commit used:
 User:
@@ -792,9 +792,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Name"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -861,12 +861,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Hello, puts
 Commit used:
 User:
@@ -881,9 +881,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Hello, puts"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -967,12 +967,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Hello, printf
 Commit used:
 User:
@@ -987,9 +987,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Hello, printf"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1134,12 +1134,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Size is not grandeur, and territory does not make a nation
 Commit used:
 User:
@@ -1154,9 +1154,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Size is not grandeur, and territory does not make a nation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1328,12 +1328,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Intel
 Commit used:
 User:
@@ -1348,9 +1348,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Intel"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1457,12 +1457,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
 Commit used:
 User:
@@ -1477,9 +1477,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1489,13 +1489,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
